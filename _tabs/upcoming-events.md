@@ -1,8 +1,10 @@
 ---
 # the default layout is 'page'
+layout: default # Changed to default because something about "page" causes the post snippet below to change arrangement.
 icon: fas fa-calendar
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+
+{% include events-list.html %}
