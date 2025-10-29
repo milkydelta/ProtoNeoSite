@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://nottsanime.github.io"
 
 github:
   username: AnimeSocNotts # change to your GitHub username
@@ -36,10 +36,10 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: AnimeSoc Nottingham
   email: example@example.com # change to your email address
-  links:
+  links: # WE NEED AT LEAST ONE LINK, OR THE BUILD FAILS. It's because the default author assumes there is one, so the <a> tag ends up empty.
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
-    # - https://github.com/username # change to your GitHub homepage
+    - https://github.com/AnimeSocNotts # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
