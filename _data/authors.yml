@@ -1,5 +1,13 @@
 milkydelta:
-  name: mdname
+  name: MD Name
   picture: https://avatars.githubusercontent.com/u/88966938
   committee: false
-  role:
+  role: Role-less
+  blurb: I am writing this site. It's a surprise to me, too.
+
+milkydeltaa:
+  name: MD Name2
+  picture: https://avatars.githubusercontent.com/u/88966938
+  committee: false
+  role: Also Role-less
+  blurb: I too am writing this site. It's a surprise to me, too.
