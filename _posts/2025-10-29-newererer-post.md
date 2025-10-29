@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tuesday Event
-date: 2025-10-28 23:40
+title: Wednesday Event
+date: 2025-10-29 15:01
 category: Event
 author: 
 tags: []
