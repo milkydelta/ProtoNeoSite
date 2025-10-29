@@ -13,6 +13,10 @@ They make a yearly Zine.
 
 ## Manga Book Club Reviews
 
-There's an MBC each Wednesday, and they have made reviews in past.
+There's an MBC each Wednesday, and they have made reviews in past. I don't know if reviews are still a thing.
 
 [See those here](/categories/mbc/)
+
+## Other
+
+There are also other things.

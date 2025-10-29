@@ -13,11 +13,11 @@
 
         <div class="col-md-{{ card_body_col }}">
           <div class="card-body d-flex flex-column">
-            <h1 class="card-title my-2 mt-md-0">{{ author[1].name }} - {{ author[1].role }}</h1>
+            <h1 class="card-title my-2 mt-md-0">{{ author[1].name }}</h1>
             <h6>{{ author[1].role }}</h6>
 
             <div class="card-text content mt-0 mb-3">
-              <p>{{ author[1].blurb }}</p>
+              <p style="-webkit-line-clamp:6">{{ author[1].blurb }}</p>
             </div>
           </div>
         </div>
