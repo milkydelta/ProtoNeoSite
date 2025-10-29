@@ -1,0 +1,27 @@
+<!-- A modified version of a snippet from jekyll-theme-chirpy/_layouts/home.html, which is under the MIT license -->
+
+<div id="post-list" class="flex-grow-1 px-xl-1">
+  {% for author in site.data.authors %}
+    <article class="card-wrapper card">
+      <div href="/" class="post-preview row g-0 flex-md-row-reverse">
+        {% assign card_body_col = '12' %}
+          <div class="col-md-5">
+            <img src="{{ author[1].picture }}" alt="{{ alt }}" class="">
+          </div>
+
+        {% assign card_body_col = '7' %}
+
+        <div class="col-md-{{ card_body_col }}">
+          <div class="card-body d-flex flex-column">
+            <h1 class="card-title my-2 mt-md-0">{{ author[1].name }} - {{ author[1].role }}</h1>
+            <h6>{{ author[1].role }}</h6>
+
+            <div class="card-text content mt-0 mb-3">
+              <p>{{ author[1].blurb }}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  {% endfor %}
+</div>

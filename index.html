@@ -3,23 +3,4 @@ layout: page
 title: AnimeSoc Nottingham
 # Index page
 ---
-<b>bruh</b><br>
-
-{% for author in site.data.authors %}
-    {{ author[1].name }}<br>    
-{% endfor %}
-
-{{ site.data.authors["milkydelta"] }}<br> 
-
-{% for author in site.data.authors %}
-    <div>
-        <div>
-            <img src="{{ author[1].picture }}" alt="" width="256" height="256">
-        </div>
-        <div>
-            <h5><strong>{{ author[1].name }}</strong></h5>
-            <h6><strong>{{ author[1].role }}</strong></h6>
-            <p>{{ author[1].blurb }}</p>
-        </div>
-    </div>
-{% endfor %}
+{% include committee.html %}
