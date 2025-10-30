@@ -6,8 +6,11 @@
       <div href="/" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = '12' %}
           <div class="col-md-5">
-            <img src="{{ author[1].picture }}" alt="{{ alt }}" class="">
+            {% if author[1].picture %}
+              <img src="{{ author[1].picture }}" alt="{{ alt }}" class="">
+            {% endif %}
           </div>
+          
 
         {% assign card_body_col = '7' %}
 
