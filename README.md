@@ -1,43 +1,41 @@
-# Chirpy Starter
+# MD's New AniSoc Website
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Not Official
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+My non-weekend weekend project to make a new version of the University of Nottingham Anime Society's website.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+The old version of the society website was made with a program called Mobirise. None of the current folks are interested in installing and learning that, and I don't blame them. That also means the website gets forgotten, like it did earlier this year, when the domain wasn't renewed. Lots of society communication happens on the Discord and via Instagram, but there's still reasons to keep around a website.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+CS students are not a majority of members, so the best way forward is to make editing the site easy for non-technical people. Markdown is designed to fix that exact problem, and Jekyll powers thousands of blogs, many of which are not written by CS folks.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
-## Usage
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-## Contributing
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
 
-## License
 
-This work is published under [MIT][mit] License.
+## Acknowledgments
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Website made with Jekyll and the Chirpy Theme.
+
+This repository was made from the chirpy-starter template. That is under the MIT license, which can be found in `LICENSE-chirpy`. The original readme can be found at `README-chirpy.md`.
+
+`_data/locales/en.yml` was taken from the main chirpy repository and modified.
+
+`_includes/committee.html` and `_includes/events-list.html` are based on `_layouts/home.html` from the main chirpy repository.
+
+
+This site might use images and text copied/imported wholesale from the old site. For that site, I have to thank all of the contributors: @Fraetor, @TheBlitzNexus, @NibNobNeb, @Lenkin1, and @WillTheCommsOfficer. In cases where I can tag a post with an author, if that text is primarily imported, I leave the author as the default, which is currently "AnimeSoc Nottingham".
+
+This site will have copies of all previous Zine releases. Each release contains information about it's contributors. I'd like to thank all of those people. I haven't read many of them, but the ones I have read are excellent.
+
+
+
+## How-To
+
+### Add an Event
+
+### Add a Zine release
+
+### Change the committee
