@@ -4,13 +4,21 @@ title: AnimeSoc Nottingham
 # Index page
 ---
 
-Apollo 11 was launched by a Saturn V rocket from Kennedy Space Center in Florida, on July 16 at 13:32 UTC (9:32 am EDT, local time). It was the fifth crewed mission of the Apollo program. The Apollo spacecraft consisted of three parts: the command module (CM), which housed the three astronauts and was the only part to return to Earth; the service module (SM), which provided propulsion, electrical power, oxygen, and water to the command module; and the Lunar Module (LM), which had two stages—a descent stage with a large engine and fuel tanks for landing on the Moon, and a lighter ascent stage containing a cabin for two astronauts and a small engine to return them to lunar orbit.
+We are the University of Nottingham's resident Anime Society; bringing together fans of anime, manga and all Japanese otaku media.
 
-[Join the Discord](/discord/)
+We exist to serve as a place for anime fans to provide our members with anime throughout the year and to make a place to meet others with the similar interest through our organised events.
 
+Whatever your interests are and whatever your taste is, be it weeaboo greenhorn or seasoned otaku, we encourage you to come along and make your after-school anime club dreams come true!
+
+[Join the Discord](/discord/){: .left}
+
+[Join the Society](https://su.nottingham.ac.uk/activities/view/anime){: .right}
+
+<br><br>
+_**Note to self: there's panels here**_
 
 ## Our Committee
 
-Because the Soviet Union had launch vehicles with higher lift capacity, President John F. Kennedy, Eisenhower's successor, chose a challenge that exceeded the capabilities of the existing generation of rockets
+These are the people who are running the society this year, and they are also who you should approach if you have any queries or questions. You can contact them on Discord (@Committee) or via email at example@example.com
 
 {% include committee.html %}

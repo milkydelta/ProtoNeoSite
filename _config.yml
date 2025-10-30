@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://nottsanime.github.io"
+url: "https://nottsanime.milkydelta.moe"
 
 github:
   username: AnimeSocNotts # change to your GitHub username
@@ -98,7 +98,7 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Apollo_11_insignia.png/250px-Apollo_11_insignia.png
+avatar: /assets/img/new-animesoc-logo-429x427.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -215,6 +215,8 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - README-chirpy.md
+  - LICENSE-chirpy
 
 jekyll-archives:
   enabled: [categories, tags]
