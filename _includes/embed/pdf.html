@@ -1,0 +1,20 @@
+{% assign src = include.src | strip %}
+{% assign ratio = include.ratio | strip%}
+
+{% unless src contains '://' %}
+    {% capture src %}
+        {% include media-url.html src=src subpath=page.media_subpath %}
+    {% endcapture %}
+{% endunless %}
+
+
+<embed 
+src="{{src}}"
+type="application/pdf"
+class="embed-video"
+{% if include.ratio %}
+style="aspect-ratio:{{ratio}}"
+{% else %}
+style="aspect-ratio:1/sqrt(2)"
+{% endif %}
+>
