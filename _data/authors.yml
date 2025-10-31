@@ -1,7 +1,6 @@
 milkydelta:
   name: My Name
   picture: https://avatars.githubusercontent.com/u/88966938
-  committee: false
   role: If you are seeing this, Im not checking the variable for if an author is on the committee.
   blurb: I am writing this site, but I'm not on the committee.
 
@@ -10,39 +9,46 @@ tom:
   committee: true
   role: General Secretary
   blurb:
+  picture: /assets/img/authors/placeholder.jpg
 
 tim:
   name: Tim
   committee: true
   role: President
   blurb: Heyo, I'm Timothy, the President and a History and Politics student who cycles and watches anime way too much. My favourite anime are Kara no Kyoukai, Kino's Journey and Katanagatari, though I'm a Type-Moon fan and I'll watch or read anything (no matter how bad it may be).
+  picture: /assets/img/authors/placeholder.jpg
 
 cam:
   name: Cameron
   committee: true
   role: Mascot
   blurb: Yo, I'm Cameron and I'm the mascot. I have been a part of the society since 2018 and have seen a LOT of anime (349 days on mal) because I have been in it. Watching anime with others is one of my favourite things to do along with discussing anime in general so don't be afraid to talk to me about anime
+  picture: /assets/img/authors/placeholder.jpg
 
 amb:
   name: Amber
   committee: true
   role: Social Secretary
   blurb: Hi, my name is Amber and I am the Social Secretary. I study Veterinary Medicine  and am a big fan of dinosaurs.
+  picture: /assets/img/authors/placeholder.jpg
 
 krs:
   name: Kris
   committee: true
   role: Treasurer
   blurb: Hey, I'm Kristian and I'm the one who runs manga bookclub. I'm a fan of rowing, space and my favourite anime is Baki.
+  picture: /assets/img/authors/placeholder.jpg
 
 wll:
   name: Will
   committee: true
   role: Comms Officer
   blurb: Hello everyone, my name is Will and I am this year's Comms Officer. I am a second year Pharmaceutical Sciences student and some of my favourite animes are Moriarty the Patriot and Konosuba. I also have an interest in military vehicles. Also yes, that is me in a maid outfit. . . just, don't ask.
+  picture: /assets/img/authors/placeholder.jpg
 
 hry:
   name: Harry
   committee: true
   role: Welfare Officer
   blurb: Hi, I'm Harry a second year Archaeology student and your Welfare Officer for the 2024/25 year. My favourite animes are FLCL, Neon Genesis Evangelion and Gurren Lagann but I'm open to watching anything and everything so feel free send me suggestions.
+  picture: /assets/img/authors/placeholder.jpg
