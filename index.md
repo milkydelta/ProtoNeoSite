@@ -15,13 +15,27 @@ Whatever your interests are and whatever your taste is, be it weeaboo greenhorn 
 [Join the Society](/join){: .right}
 
 <br><br>
+<br><br>
+
+##### **Upcoming Events**
+From our manga book club to anime screenings, check here to find out what the society has coming up.\\
+[Learn More](/events)
+{: style="margin-left: 1rem"}
+
+<br>
+
+##### **MyAnimeList**
+
+Over the past few years we have watched a lot of anime in the society. Find out what we have watched.\\
+[Check our anime list](https://myanimelist.net/profile/UoN_AnimeSoc)
+{: style="margin-left: 1rem"}
+
+<br><br>
 
 
-_**Note to self: there's panels here**_
 
+# Our Committee - _**Needs Updating**_
 
-
-## Our Committee - _**Needs Updating**_
 
 These are the people who are running the society this year, and they are also who you should approach if you have any queries or questions. You can contact them on Discord (@Committee) or via email at {{ site.social.email }}
 
