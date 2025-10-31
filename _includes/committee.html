@@ -2,6 +2,7 @@
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for author in site.data.authors %}
+    {% if author[1].committee %}
     <article class="card-wrapper card">
       <div href="/" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = '12' %}
@@ -26,5 +27,6 @@
         </div>
       </div>
     </article>
+    {% endif %}
   {% endfor %}
 </div>
