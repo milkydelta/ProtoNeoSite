@@ -8,4 +8,4 @@ tags: []
 summary: 
 ---
 
-_**I haven't uploaded a PDF. The Zine section has an example of how I embed a PDF.**_
+{% include embed/pdf.html src="/assets/files/mbc/Spy_x_Family_Summary.pdf" %}
