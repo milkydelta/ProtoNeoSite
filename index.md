@@ -10,12 +10,16 @@ We exist to serve as a place for anime fans to provide our members with anime th
 
 Whatever your interests are and whatever your taste is, be it weeaboo greenhorn or seasoned otaku, we encourage you to come along and make your after-school anime club dreams come true!
 
-[Join the Discord](/discord/){: .left}
+[Join the Discord](/discord){: .left}
 
-[Join the Society](https://su.nottingham.ac.uk/activities/view/anime){: .right}
+[Join the Society](/join){: .right}
 
 <br><br>
+
+
 _**Note to self: there's panels here**_
+
+
 
 ## Our Committee
 
