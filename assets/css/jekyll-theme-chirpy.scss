@@ -1,0 +1,17 @@
+---
+---
+/* from the main */
+
+/* prettier-ignore */ 
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* Fixes a problem I had with the home page's image formatting.*/
+.preview-img {
+    aspect-ratio: unset;
+}
