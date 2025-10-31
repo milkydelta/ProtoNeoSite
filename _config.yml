@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: AnimeSoc Nottingham
-  email: example@example.com # change to your email address
+  email: ex@example.com # change to your email address
   links: # WE NEED AT LEAST ONE LINK, OR THE BUILD FAILS. It's because the default author assumes there is one, so the <a> tag ends up empty.
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage

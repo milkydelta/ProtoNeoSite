@@ -23,6 +23,6 @@ _**Note to self: there's panels here**_
 
 ## Our Committee - _**Needs Updating**_
 
-These are the people who are running the society this year, and they are also who you should approach if you have any queries or questions. You can contact them on Discord (@Committee) or via email at example@example.com
+These are the people who are running the society this year, and they are also who you should approach if you have any queries or questions. You can contact them on Discord (@Committee) or via email at {{ site.social.email }}
 
 {% include committee.html %}

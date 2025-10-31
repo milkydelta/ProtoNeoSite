@@ -5,7 +5,7 @@ title: The Archives
 ---
 Delve into the history of the society by looking through the archives.
 
-If you have something you would like us to add, [email us](mailto:example@example.com).
+If you have something you would like us to add, [email us](mailto:{{ site.social.email }}).
 
 ## Zines
 
