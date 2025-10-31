@@ -6,7 +6,7 @@ title: The Zine
 
 ---
 
-![image](/assets/img/zine/output.png){: .w-50 .right}
+![image](/assets/img/zine/cover.png){: .w-50 .right}
 
 {% assign zines = site.posts | where:"category","Zine" %}
 {% assign issue = zines[0].title | strip | split: " " %}
