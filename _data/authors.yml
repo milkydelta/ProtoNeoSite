@@ -4,6 +4,14 @@ milkydelta:
   role: If you are seeing this, Im not checking the variable for if an author is on the committee.
   blurb: I am writing this site, but I'm not on the committee.
 
+sffs:
+  name: University of Nottingham Science Fiction and Fantasy Society
+  # Old society name (Zine 00 to 04)
+
+sffas:
+  name: University of Nottingham Science Fiction, Fantasy and Anime Society
+  # Old society name (Zine 05 to 10)
+
 tom:
   name: Tom
   committee: true
